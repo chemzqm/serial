@@ -1,0 +1,28 @@
+{
+  "name": "node-serial",
+  "version": "0.0.1",
+  "description": "A simple for working with serial callbacks, works on node and browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chemzqm/serial.git"
+  },
+  "keywords": [
+    "serial",
+    "async"
+  ],
+  "author": "chemzqm@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chemzqm/serial/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.8.0"
+  },
+  "dependencies": {
+    "next-tick": "~0.1.0"
+  }
+}

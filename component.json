@@ -1,0 +1,19 @@
+{
+  "name": "serial",
+  "repo": "chemzqm/serial",
+  "description": "a simple way for management of serial async call",
+  "version": "0.0.1",
+  "keywords": ["serial", "async"],
+  "dependencies": {
+    "timoxley/next-tick": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "development": {
+    "visionmedia/mocha": "*",
+    "chaijs/chai": "*"
+  },
+  "license": "MIT",
+  "remotes": []
+}
