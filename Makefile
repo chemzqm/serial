@@ -15,4 +15,4 @@ test:
 clean:
 	rm -rf components build
 
-.PHONY: test phantomjs
+.PHONY: test phantomjs clean
