@@ -4,9 +4,11 @@ var nextTick = require('next-tick');
  * @api public
  */
 function Serial () {
+  if (! (this instanceof Serial)) return new Serial();
   this.ctx = {};
   this.t = 10000;
   this.cbs = [];
+  return this;
 }
 
 /**
@@ -17,6 +19,7 @@ function Serial () {
  */
 Serial.prototype.timeout = function(ms){
   this.t = ms;
+  return this;
 }
 
 /**
@@ -42,6 +45,7 @@ Serial.prototype.add = function(fn){
       })
     }, self.ctx);
   })
+  return this;
 }
 
 /**
