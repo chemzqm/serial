@@ -1,10 +1,10 @@
 {
   "name": "node-serial",
   "version": "0.1.1",
-  "description": "A simple for working with serial callbacks, works on node and browser",
+  "description": "A simple module for working with serial callbacks, works on node and browser",
   "main": "index.js",
   "scripts": {
-    "test": "make test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
     "url": "https://github.com/chemzqm/serial/issues"
   },
   "devDependencies": {
-    "chai": "~1.8.0"
+    "chai": "~1.8.0",
+    "mocha": "~1.15.1"
   },
   "dependencies": {
     "next-tick": "~0.1.0"

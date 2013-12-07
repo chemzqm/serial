@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/chemzqm/serial.png)](http://travis-ci.org/chemzqm/serial)
+
 # Serial
 
 Serial provide a simple way for management of serial async call, so you can remember the API just by a glance.
