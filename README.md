@@ -90,3 +90,7 @@ The callback function is called with `error` (null or undefined if not exist) an
 ## License
 
   MIT
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chemzqm/serial/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
