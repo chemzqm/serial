@@ -1,3 +1,4 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chemzqm/serial/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![Build Status](https://secure.travis-ci.org/chemzqm/serial.png)](http://travis-ci.org/chemzqm/serial)
 [![Coverage Status](https://coveralls.io/repos/chemzqm/serial/badge.png?branch=master)](https://coveralls.io/r/chemzqm/serial?branch=master)
 
@@ -91,6 +92,4 @@ The callback function is called with `error` (null or undefined if not exist) an
 
   MIT
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chemzqm/serial/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
