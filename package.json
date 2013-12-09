@@ -4,7 +4,7 @@
   "description": "A simple module for working with serial callbacks, works on node and browser",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "make test-coveralls"
   },
   "repository": {
     "type": "git",
