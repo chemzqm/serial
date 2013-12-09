@@ -21,7 +21,10 @@
   },
   "devDependencies": {
     "chai": "~1.8.0",
-    "mocha": "~1.15.1"
+    "mocha": "~1.15.1",
+    "mocha-lcov-reporter": "0.0.1",
+    "istanbul": "~0.1.46",
+    "coveralls": "~2.6.0"
   },
   "dependencies": {
     "next-tick": "~0.1.0"

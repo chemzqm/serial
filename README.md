@@ -1,4 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/chemzqm/serial.png)](http://travis-ci.org/chemzqm/serial)
+[![Coverage Status](https://coveralls.io/repos/chemzqm/serial/badge.png?branch=master)](https://coveralls.io/r/chemzqm/serial?branch=master)
 
 # Serial
 
