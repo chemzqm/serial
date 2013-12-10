@@ -34,7 +34,7 @@ You must have `component` installed for browser usage and `mocha`, `mocha-phanto
 ``` bash
 $ npm install -g component mocha mocha-phantomjs
 $ git clone git@github.com:chemzqm/serial.git
-$ cd serial npm install
+$ cd serial && npm install
 $ make
 #run test on server side
 $ make test
