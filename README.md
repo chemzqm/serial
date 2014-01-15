@@ -50,7 +50,7 @@ function square(n, done) {
     done(null, n * n);
   }, 100);
 }
-var Serial = reuiqre('serial'); //The name is 'node-serial' in node environment
+var Serial = require('serial'); //The name is 'node-serial' in node environment
 var serial = new Serial();
 serial.timeout(1000);
 [1, 2, 3].forEach(function(){
