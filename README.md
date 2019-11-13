@@ -6,7 +6,7 @@
 
 Serial provide a simple way for management of serial async call, so you can remember the API just by a glance.
 
-If you think [async](https://github.com/caolan/async) and [promise](https://github.com/then/promise) is somehow complecated, consider to use [chemzqm/parallel](https://github.com/chemzqm/parallel) and [chemzqm/serial](https://github.com/chemzqm/serial) to make your life easier.
+If you think [async](https://github.com/caolan/async) and [promise](https://github.com/then/promise) is somehow complicated, consider using [chemzqm/parallel](https://github.com/chemzqm/parallel) and [chemzqm/serial](https://github.com/chemzqm/serial) to make your life easier.
 
 ## Installation
 
